@@ -1,45 +1,8 @@
-# Small Apps By Themefisher
-Small Apps is a clean and modern Free responsive app landing-page template for Mobile App. Built with Bootstrap 4.x frontend Framework. The codebase is well organized, very easy to customize, and SEO optimized.
+# TechBorg Open Source By TechBorg
 
 
-<!-- demo -->
-## Example Site
-| [![](screenshots/homepage.png)](https://demo.themefisher.com/small-apps/) | [![](screenshots/homepage-2.png)](http://localhost:3000/homepage-2.html) | [![](screenshots/homepage-3.png)](https://demo.themefisher.com/small-apps/homepage-3.html) |
-|:---:|:---:|:---:|
-| **Homepage 1**  | **Homepage 2**  | **Homepage 3**  |
-| [![](screenshots/about.png)](https://demo.themefisher.com/small-apps/about.html) | [![](screenshots/career.png)](https://demo.themefisher.com/small-apps/career.html) | [![](screenshots/team.png)](https://demo.themefisher.com/small-apps/team.html) |
-| **About** | **Career** | **Team** |
-| [![](screenshots/blog-r.png)](https://demo.themefisher.com/small-apps/blog.html) | [![](screenshots/blog-details.png)](https://demo.themefisher.com/small-apps/blog-single.html) | [![](screenshots/contact.png)](https://demo.themefisher.com/small-apps/contact.html) |
-| **Blogs** | **Blog Details** | **Contact** |
+👉🏻[View Live Preview](https://techborg.github.io)
 
-👉🏻[View Live Preview](https://demo.themefisher.com/small-apps/)
-
-<!-- resources -->
-## Pages
-* **Homepage 1**
-* **Homepage 2**
-* **Homepage 3**
-* **About**
-* **Team**
-* **Career**
-* **Blog**
-* **Blog Details**
-* **Contact**
-* **FAQ**
-* **Coming Soon**
-* **404**
-* **Privacy Policy**
-* **Signin**
-* **Signup**
-
-
-<!-- download -->
-## Download And installation
-Download this template from any following options:
-
-* Download from [Github](https://github.com/themefisher/Small-Apps-Bootstrap-App-Landing-Template/archive/master.zip)
-* Clone the repository: `git clone https://github.com/themefisher/Small-Apps-Bootstrap-App-Landing-Template.git`
-* Download from [Themefisher](https://themefisher.com/products/small-apps-free-app-landing-page-template/)
 
 
 <!-- installation -->
@@ -70,23 +33,23 @@ gulp
 ```
 After that, it will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved.
 
-👉🏻 [visit documentation](https://docs.themefisher.com/airspace/)
+👉🏻 [visit documentation](https://techborg.in/termsofuse)
 
 
 <!-- reporting issue -->
 ## Reporting Issues
-We use GitHub Issues as the official bug tracker for the Small Apps Template. Please Search [existing issues](https://github.com/themefisher/Small-Apps-Bootstrap-App-Landing-Template/issues). It’s possible someone has already reported the same problem.
-If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/themefisher/Small-Apps-Bootstrap-App-Landing-Template/issues).
+We use GitHub Issues as the official bug tracker for the techborg.github.io. Please Search [existing issues](https://github.com/techborg/techborg.github.io/issues). It’s possible someone has already reported the same problem.
+If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/techborg/techborg.github.io/issues).
 
 <!-- support -->
 ## Technical Support or Questions (Paid)
-If you have questions or need help integrating the product please [contact us](mailto:mehedi@themefisher.com) instead of opening an issue.
+If you have questions or need help integrating the product please [contact us](mailto:mail@techborg.in) instead of opening an issue.
 
 <!-- licence -->
 ## License
-Copyright &copy; 2021 Designed & Developed by [Themefisher](https://themefisher.com)
+Copyright &copy; 2022 Designed & Developed by [TechBorg](https://techborg.in)
 
-**Code License:** Released under the [MIT](https://github.com/themefisher/Small-Apps-Bootstrap-App-Landing-Template/blob/master/LICENSE) license.
+**Code License:** Released under the [MIT](https://github.com/techborg/techborg.github.io/blob/master/LICENSE) license.
 
 **Image license:** The images are only for demonstration purposes. They have their own licence, we don't have permission to share those image.
 
